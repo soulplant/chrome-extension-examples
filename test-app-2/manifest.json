@@ -10,5 +10,5 @@
       ]
     }
   },
-  "permissions": ["experimental", "appWindow"]
+  "permissions": ["experimental"]
 }

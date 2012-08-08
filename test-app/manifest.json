@@ -8,5 +8,5 @@
       "scripts": ["background.js"]
     }
   },
-  "permissions": ["experimental", "appWindow"]
+  "permissions": ["experimental"]
 }
